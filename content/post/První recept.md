@@ -6,7 +6,7 @@ tags:
     - start
     - hugo
 ---
-##Rajčatovo-cizrnové kari
+###Rajčatovo-cizrnové kari
 
 ### Ingredience:
 * olivoveý olej (či jakýkoliv jiný)
@@ -27,6 +27,8 @@ tags:
 1. V hrnci rozehřejte olej na mírném ohni a orestujte na něm cibuli (cca 3 min.). Pak vmíchejte česnek a koření a chvíli restujte. Následně zalijte rajčaty a přidejte cizrnu. Promíchejte vařečkou a zvolna vařte 10 minut.
 2.  Přilijte kokosové mléko, osolte a opepřete. Přiveďte k varu, ztlumte oheň a vařte 10–15 minut, až omáčka zhoustne.
 3.  Přidejte rajčata spolu s koriandrem a podávejte s rýží.
+
+[Inspirace]( https://www.apetitonline.cz/recept/rajcatovo-cizrnove-kari "Inspirace")
 
 
 ## What's next?
