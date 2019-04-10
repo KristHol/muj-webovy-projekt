@@ -1,13 +1,13 @@
 ---
-title: About
+title: O projektu
 menu:
   main:
     weight: 30
 ---
 
-This is a minimal [Hugo][] website created for a course [VIKBA07][].
+V rámci našeho projektu bychom chtěli ukázat, že je možné být studentem, přitom si vařit (především rychle a jednoduše) a jíst relativně zdravě. Nebráníme se ani různým alternativním způsobům stravy, protože vše by se mělo vyzkoušet!
 
-Learn more about Hugo with a [quick start guide][qs] or by exploring its [documentation][hugoDocs].
+Na našich stránkách bychom chtěli překladem do českého jazyka zpřístupnit recepty od zahraničních kuchařů/foodblogerů. Rádi bychom zde sdíleli recepty, které máme sami odzkoušené a popřípadě upravené, aby je mohli použít i studenti. 
 
 [Hugo]: https://gohugo.io
 [VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
