@@ -18,7 +18,7 @@ Ve svém moodboardu jsem se snažila shromáždit screenshoty částí webu, kte
 
 
 #### Moodboard podle Kris
-![kris](https://is.muni.cz/www/460561/nami/2019-04-17__11_.png) {: height="400px" width="600px"} 
+<a href="https://is.muni.cz/www/460561/nami/2019-04-17__11_.png"><img src="https://is.muni.cz/www/460561/nami/2019-04-17__11_.png" height="400" width="600" ></a>
 Ve svém moodboardu jsem se pokusila nashromáždit screenshoty částí webu, které se mi líbí a chtěla bych, aby byly na našich stránkách.
 
 1. líbí se mi menu v horní části webu (jednoduché, ale zároveň se lze snadno orientovat)
