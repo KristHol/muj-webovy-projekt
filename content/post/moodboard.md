@@ -7,7 +7,7 @@ tags:
     - foodblog
 ---
 #### Moodboard podle Aničky
-![anicka](https://is.muni.cz/www/472312/Vystrizek.PNG)
+![anicka](https://is.muni.cz/www/472312/Vystrizek.PNG =150x)
 Ve svém moodboardu jsem se snažila shromáždit screenshoty částí webu, které se mi líbí a chtěla bych, aby byly na našich stránkách. 
 - Líbí se mi menu v horním řádku
 - pod menu by mohl být nějaký výběr, co se čtenáři doporučuje nebo "nejnovější recepty"
