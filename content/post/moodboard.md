@@ -6,6 +6,10 @@ tags:
     - design
     - foodblog
 ---
+#### Úvod
+V rámci tohoto článku jsme dali dohromady podklad pro budoucí vzhled našeho webu. 
+
+
 #### Moodboard podle Aničky
 <a href="https://is.muni.cz/www/472312/Vystrizek.PNG"><img src="https://is.muni.cz/www/472312/Vystrizek.PNG" height="400" width="600" ></a>
 Ve svém moodboardu jsem se snažila shromáždit screenshoty částí webu, které se mi líbí a chtěla bych, aby byly na našich stránkách. 
