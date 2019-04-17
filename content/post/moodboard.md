@@ -7,7 +7,7 @@ tags:
     - foodblog
 ---
 #### Moodboard podle Aničky
-![anicka](https://is.muni.cz/www/472312/Vystrizek.PNG)
+<a href="https://is.muni.cz/www/472312/Vystrizek.PNG"><img src="https://is.muni.cz/www/472312/Vystrizek.PNG" height="400" width="600" ></a>
 Ve svém moodboardu jsem se snažila shromáždit screenshoty částí webu, které se mi líbí a chtěla bych, aby byly na našich stránkách. 
 
 1. Líbí se mi menu v horním řádku
@@ -29,6 +29,17 @@ Ve svém moodboardu jsem se pokusila nashromáždit screenshoty částí webu, k
 6. zobrazení posledních článků i s "anotačním" textem
 7. kategorie nejoblíbenějších receptů 
 8. detail: autor článku
+
+#### Moodboard podle Ondřeje
+Rozhodl jsem, že výsledná podoba našeho webu by měla vypadat jako inovativní, ale i klasický food blog, kde si cílový uživatelé našich strájek najdou přesně to, co potřebují a chtějí. Bude to taková kuchařka a food blog pro studenty, od nich a pro ně.
+1. Vizuální stránka 
+ - našel jsem na netu http://www.mycookingdiary.cz/, který se mi hodně vzhledově líbí, takže bych chtěl vytvořit podobnou šablonu, jak rozložením stránek a obrázku, tak po celkové vizuální podobě.
+2. Obsahově
+ - Měl bych ideu, že každý den by se na webu zveřejnil jeden nový inspirativní recept, plus samozřejmě bude možné procházet i archiv starších receptů, které budou rozděleny podle kategorií.
+3. Závěr
+ - na konečné podobě se samozřejmě dohodneme s celým týmem a uvidíme, zda se naše představy shodují, nebo se zcela rozcházejí, a podle toho se rozhodneme, jak budeme pokračovat dál. 
+
+
 
 ## What's next?
 
