@@ -20,21 +20,14 @@ Ve svém moodboardu jsem se snažila shromáždit screenshoty částí webu, kte
 ![kris](https://is.muni.cz/auth/www/460561/nami/?strpo=undefined;info=1)
 Ve svém moodboardu jsem se pokusila nashromáždit screenshoty částí webu, které se mi líbí a chtěla bych, aby byly na našich stránkách.
 
-* líbí se mi menu v horní části webu (jednoduché, ale zároveň se lze snadno orientovat)
-
-* možnost vložení jiného média (např. instagram a možnost zobrazení posledních příspěvků)
-
-* přehled článků aby byl vedle sebe s obrázky a nadpisem (jednoduché a přehledné)
-
-* při najetí myší na obrázek aby se zobrazil popisek 
-
-* po otevření článku aby byl text "rozdělen" vlevo ingredience a vpravo postup
-
-* zobrazení posledních článků i s "anotačním" textem
-
-* kategorie nejoblíbenějších receptů 
-
-* detail: autor článku
+1. líbí se mi menu v horní části webu (jednoduché, ale zároveň se lze snadno orientovat)
+2.  možnost vložení jiného média (např. instagram a možnost zobrazení posledních příspěvků)
+3.  přehled článků aby byl vedle sebe s obrázky a nadpisem (jednoduché a přehledné)
+4.  při najetí myší na obrázek aby se zobrazil popisek 
+5.  po otevření článku aby byl text "rozdělen" vlevo ingredience a vpravo postup
+6.  zobrazení posledních článků i s "anotačním" textem
+7.  kategorie nejoblíbenějších receptů 
+8.  detail: autor článku
 
 ## What's next?
 
