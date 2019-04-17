@@ -9,6 +9,7 @@ tags:
 #### Moodboard podle Aničky
 ![anicka](https://is.muni.cz/www/472312/Vystrizek.PNG)
 Ve svém moodboardu jsem se snažila shromáždit screenshoty částí webu, které se mi líbí a chtěla bych, aby byly na našich stránkách. 
+
 1. Líbí se mi menu v horním řádku
 2. pod menu by mohl být nějaký výběr, co se čtenáři doporučuje nebo "nejnovější recepty"
 3. chtěla bych, aby si návštěvník stránky mohl hledat recepty podle toho, co by chtěl zrovna vařit 
@@ -17,7 +18,7 @@ Ve svém moodboardu jsem se snažila shromáždit screenshoty částí webu, kte
 
 
 #### Moodboard podle Kris
-![kris](https://is.muni.cz/www/460561/nami/2019-04-17__11_.png)
+![kris](https://is.muni.cz/www/460561/nami/2019-04-17__11_.png) {: height="400px" width="600px"} 
 Ve svém moodboardu jsem se pokusila nashromáždit screenshoty částí webu, které se mi líbí a chtěla bych, aby byly na našich stránkách.
 
 1. líbí se mi menu v horní části webu (jednoduché, ale zároveň se lze snadno orientovat)
