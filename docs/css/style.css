@@ -16,11 +16,12 @@ footer {
 
 .page {
   float: right;
-  width: 70%;
+  width: 80%;
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+  background-color:#ffe4e1;
 }
 
 aside {
@@ -40,4 +41,9 @@ nav li {
 
 nav .active {
   font-weight: bold;
+}
+
+.title {
+text-align: center;
+font-weight: bold
 }
