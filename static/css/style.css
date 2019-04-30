@@ -16,12 +16,12 @@ footer {
 
 .page {
   float: right;
-  width: 70%;
+  width: 90%;
   border-left: solid;
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
-  background-color: black;
+  border-color: #ffe4c4;
 }
 
 aside {
