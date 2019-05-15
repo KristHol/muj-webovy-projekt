@@ -22,6 +22,7 @@ tags:
 - 300g zmražené zeleniny (já jsem použila směs kukuřice, hrášku, zelených fazolek a mungo klíčků, ale jakákoliv směs funguje...)
 - plechovka kokosového mléka
 - nudle (v receptu vyfoceny soba, ale i s rýžovými nudlemi je to dobré...)
+
 k dochucení:
 * sůl
 * chilli
