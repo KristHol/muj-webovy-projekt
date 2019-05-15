@@ -1,5 +1,5 @@
-title: VEGANSKÁ CURRY POLÉVKA
-date: 2018-05-15
+title: "VEGANSKÁ CURRY POLÉVKA"
+date: 2019-05-15
 tags: 
     - cooking
     - vaření
@@ -8,6 +8,7 @@ tags:
     - vegan
     - curry
     - polévka
+---
 
 ## VEGANSKÁ CURRY POLÉVKA
 
