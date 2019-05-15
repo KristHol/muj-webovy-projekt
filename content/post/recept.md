@@ -1,5 +1,6 @@
+---
 title: "VEGANSKÁ CURRY POLÉVKA"
-date: 2019-05-15
+date:  2019-05-15
 tags: 
     - cooking
     - vaření
@@ -12,7 +13,7 @@ tags:
 
 ## VEGANSKÁ CURRY POLÉVKA
 
-<img src="https://zljrta.db.files.1drv.com/y4mK2rKOgZY9IowR43Unwt-bkQS33ih9PikO0Or8oEW7avHAq33qMIjjOWLugDgBlacW7fimJbkEM6dV-gzpfX1gFEYHnifiuAoBSyAkATIu1NFsofCsF5wa14m0TLhDExi8_nOlOZ6Vf45X0_Ojl3VnseJm4ayIbFHzbLmF5sq1QYHefzfBYVDzD5Ti7JPBdOW8mzusBL8nR65bIgmHwaBlg?width=372&height=660&cropmode=none" width="372" height="660" />
+<img src="https://zljrta.db.files.1drv.com/y4mK2rKOgZY9IowR43Unwt-bkQS33ih9PikO0Or8oEW7avHAq33qMIjjOWLugDgBlacW7fimJbkEM6dV-gzpfX1gFEYHnifiuAoBSyAkATIu1NFsofCsF5wa14m0TLhDExi8_nOlOZ6Vf45X0_Ojl3VnseJm4ayIbFHzbLmF5sq1QYHefzfBYVDzD5Ti7JPBdOW8mzusBL8nR65bIgmHwaBlg?width=144&height=256&cropmode=none" width="144" height="256" />
 
 ##### Čas: cca 10min
 
