@@ -24,8 +24,8 @@ tags:
 - nudle (v receptu vyfoceny soba, ale i s rýžovými nudlemi je to dobré...)
 
 k dochucení:
-* sůl
-* chilli
+- sůl
+- chilli
 
 ### Postup: 
 1. Orestuj curry powder (a případně chilli) v troše oleje v hluboké pánvi. Pokud se směs koření "lepí" k pánvi tak přidej trochu vody.
