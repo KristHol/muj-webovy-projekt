@@ -7,6 +7,7 @@ tags:
     - těstoviny
     - paprika
     - vegetarián 
+    - omáčka
 --- 
  
 ## Těstoviny s krémovou paprikovou omáčkou
