@@ -2,11 +2,11 @@
 title:  "První recept!"
 date:   2019-04-10
 tags: 
-    - hello world
-    - start
-    - hugo
+    - recept
+    - cooking
+    - vaření
 ---
-###Rajčatovo-cizrnové kari
+### Rajčatovo-cizrnové kari
 
 ### Ingredience:
 * olivoveý olej (či jakýkoliv jiný)
