@@ -8,8 +8,9 @@ tags:
     - těstoviny
     - paprika
     - vegetarián 
+    - omáčka
 --- 
- 
+
 ## Těstoviny s krémovou paprikovou omáčkou
  
 #### 45 minut, 6 porcí omáčky
@@ -33,9 +34,14 @@ Nejdřív jsem si nechala rozehřát troubu na 180 stupňů a pak jsem pokračov
 Ke konci pečení zeleniny jsem si dala pomalu vařit osolenou vodu na těstoviny. Upečenou zeleninu jsem nechala lehce vychladnout (z toho nejhoršího), odstranila jsem ze směsi větvičky tymiánu a vyloupala jsem upečený česnek (chceme jenom vnitřek ne slupky). Takhle připravenou směs jsem přemístila do mixéru, přidala k ní čerstvou bazalku, ricottu, sušený rajčata a začala jsem mixovat. Cílem je, aby omáčka byla co nejkrémovější a nejhladší (na fotce je vyfocená tak v půlce mixování), záleží samozřejmě ale na výkonu mixéru. Na závěr je potřeba klasicky ochutnat a případně dochutit solí a pepřem. Kdyby byla rajčata kyselá, tak případně i cukrem, ale v mym případě nebylo potřeba.
 Servírovala jsem už promíchaný těstoviny s omáčkou, zasypaný strouhaným parmazánem a čerstvou bazalkou.
 
+
+<img src="https://is.muni.cz/www/472312/p2250123-1080x810.jpg" height="660" align="center" /> 
+
+<img src="https://is.muni.cz/www/472312/p2250220-1080x810.jpg" height="660" align="center" /> 
 <img src="https://is.muni.cz/www/472312/p2250123-1080x810.jpg" width="372" height="660" align="center" /> 
 
 <img src="https://is.muni.cz/www/472312/p2250220-1080x810.jpg" width="372" height="660" align="center" /> 
+
  
  
 ## What's next? 
