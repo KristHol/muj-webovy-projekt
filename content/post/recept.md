@@ -41,4 +41,4 @@ k dochucení:
 
 ## What's next?
 
-See [another post]({{< ref "another-post.md" >}}) or head back to [homepage](../../). (Check this paragraph to see the magic behind the between posts.)
+See [another post]({{< ref "tortilla.md" >}}) or head back to [homepage](../../). (Check this paragraph to see the magic behind the between posts.)

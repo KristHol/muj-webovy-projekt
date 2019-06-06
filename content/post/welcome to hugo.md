@@ -15,4 +15,4 @@ When you want to publish an article, simply remove `draft: true` from it's front
 
 ## What's next?
 
-See [another post]({{< ref "another-post.md" >}}) or head back to [homepage](../../). (Check this paragraph to see the magic behind the between posts.)
+See [recept]({{< ref "recept.md" >}}) or head back to [homepage](../../). (Check this paragraph to see the magic behind the between posts.)
