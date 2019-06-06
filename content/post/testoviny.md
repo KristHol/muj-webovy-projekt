@@ -35,9 +35,9 @@ Ke konci pečení zeleniny jsem si dala pomalu vařit osolenou vodu na těstovin
 Servírovala jsem už promíchaný těstoviny s omáčkou, zasypaný strouhaným parmazánem a čerstvou bazalkou.
 
 
-<img src="https://is.muni.cz/www/472312/p2250123-1080x810.jpg" width="372" height="660" align="center" /> 
+<img src="https://is.muni.cz/www/472312/p2250123-1080x810.jpg"  height="660" align="center" /> 
 
-<img src="https://is.muni.cz/www/472312/p2250220-1080x810.jpg" width="372" height="660" align="center" /> 
+<img src="https://is.muni.cz/www/472312/p2250220-1080x810.jpg" height="660" align="center" /> 
 
  
  
