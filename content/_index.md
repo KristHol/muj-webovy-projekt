@@ -1,1 +1,1 @@
-﻿---# Foodblog aneb studentská kuchařka  <a href="https://is.muni.cz/www/472312/titul.PNG"> <img src="https://is.muni.cz/www/472312/titul.PNG" > </a>---
+﻿---# Foodblog aneb studentská kuchařka  ---<a href="https://is.muni.cz/www/472312/titul.PNG"> <img src="https://is.muni.cz/www/472312/titul.PNG" > </a>
